@@ -1,2 +1,3 @@
 cache/
 files/install_wordpress.py
+*.pyc
